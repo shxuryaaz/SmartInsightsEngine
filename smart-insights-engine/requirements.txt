@@ -1,0 +1,6 @@
+fastapi
+openai
+chromadb
+firebase-admin
+scikit-learn
+metaflow
