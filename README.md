@@ -39,7 +39,7 @@ smart-insights-engine/
 └── README.md
 ```
 
-## Getting Started
+## How to Run the Project 
 
 ### 1. Clone the Repository
 
